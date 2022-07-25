@@ -24,7 +24,7 @@ export default function Career() {
   const career = state.career;
   return (
     <section className="">
-      <div className="hero min-h-screen relative" style={{ backgroundImage: "url(https://media.infocielo.com/p/1e62986c96574ba07cf964374b0517a3/adjuntos/299/imagenes/001/324/0001324423/1200x900/smart/186334631_5484897501581638_1528356223788102322_njpg.jpg)" }}>
+      <div className="hero min-h-screen relative" style={{ backgroundImage: "url(https://i.imgur.com/aj5GyvD.png)" }}>
         <div className="hero-overlay bg-opacity-90"></div>
         <div className="hero-content text-neutral-content flex-col">
           <div className="flex flex-col lg:flex-row-reverse">
