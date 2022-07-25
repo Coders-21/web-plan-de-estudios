@@ -19,7 +19,7 @@ const Node = styled.div`
 
 export const NodeLabel = ({ title, subtitle }) => {
   return (
-    <Node className="bg-slate-50 text-slate-800 shadow-custom rounded max-h-[500px] p-2  max-w-lg w-32">
+    <Node className="bg-slate-50 text-slate-800 shadow-custom rounded max-h-[500px] p-2  max-w-lg w-40">
       <h4 style={{ margin: 0 }}>{title}</h4>
       {subtitle? <i>{subtitle}</i> : "" }
     </Node>
